@@ -67,7 +67,7 @@ body{
 
 @media screen and (width >= 798px){
     .card-left{
-        border-radius: 2rem 0 0 2rem;
+        border-radius: 2rem;
     }
 }
 
